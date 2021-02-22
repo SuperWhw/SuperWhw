@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SuperWhw&title=Stars,Followers&no-bg=true)](https://github.com/SuperWhw/github-profile-trophy)
-[![SuperWhw's github stats](https://github-readme-stats.vercel.app/api?username=SuperWhw&show_icons=true)](https://github.com/SuperWhw/)
+[![SuperWhw's github stats](https://github-readme-stats.vercel.app/api?username=SuperWhw&show_icons=true&no-bg=true)](https://github.com/SuperWhw/)
