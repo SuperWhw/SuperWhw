@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SuperWhw&title=Stars,Followers&no-bg=true)](https://github.com/SuperWhw/github-profile-trophy)
-[![SuperWhw's github stats](https://github-readme-stats.vercel.app/api?username=SuperWhw&show_icons=true&no-bg=true)](https://github.com/SuperWhw/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SuperWhw&title=Stars,Followers&theme=onedark)](https://github.com/SuperWhw/github-profile-trophy)
+[![SuperWhw's github stats](https://github-readme-stats.vercel.app/api?username=SuperWhw&show_icons=true&theme=onedark)](https://github.com/SuperWhw/)
